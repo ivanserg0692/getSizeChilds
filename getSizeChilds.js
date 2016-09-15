@@ -12,6 +12,7 @@
     var wrap = childs.wrapAll('<div></div>').parent();
     height = wrap.height();
     width = wrap.width();
+    wrap.unwrap();
     return {width:width,height:height};
   };
 })(jQuery);
