@@ -2,7 +2,7 @@
 jQuery plugin, return width and height childs.
 Use to calculate the size of the container in which to place a childs
 
-*example use*
+**example use**
 http://codepen.io/wanes101/pen/zKqbyV?editors=1111
 
 ```html
