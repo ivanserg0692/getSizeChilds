@@ -1,5 +1,5 @@
 # getSizeChilds
-jQuery plugin, return width and height childs.
+jQuery plugin that returns the width and the height of childs's nodes.
 Use to calculate the size of the container in which to place a childs
 
 **example use**
